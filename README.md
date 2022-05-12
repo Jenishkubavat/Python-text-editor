@@ -4,7 +4,7 @@ Python Text Editor using Tkinter with tab functionality.
 
 Made using Python Python 3.10.4 on Windows
 
-![picture alt](https://github.com/Jenishkubavat/Python-text-editor/blob/master/Screenshot%202022-05-12%20145658.png"Notepad+=1")
+![picture alt](https://github.com/Jenishkubavat/Python-text-editor/blob/master/Screenshot%202022-05-12%20145658.png?raw=true)
 
 ## Menus & Functionality:
 
